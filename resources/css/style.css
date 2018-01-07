@@ -1,3 +1,28 @@
-/* STYLESHEET FOR ProjectName/Index */
+/* STYLESHEET FOR excursion/index */
 
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+body {
+  background-color: black;
+  color: gray;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
 
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#blurb1 {
+  font-size: 21px;
+}
